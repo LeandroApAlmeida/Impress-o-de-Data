@@ -6,4 +6,4 @@ Neste programa eu demonstro as diversas maneiras de se obter a data e hora do si
 
 <br>
 
-<img width="797" height="852" alt="Data e Hora em C" src="https://github.com/user-attachments/assets/309fdb8d-14bc-4dbe-bcc2-8ced181fe1c6" />
+<img width="50%" alt="Data e Hora em C" src="https://github.com/user-attachments/assets/309fdb8d-14bc-4dbe-bcc2-8ced181fe1c6" />
